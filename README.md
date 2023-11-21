@@ -11,6 +11,8 @@ Step-1: Download the Llama2 quantized model(7GB or any other size that you think
 
 Step-2: Run the ipynb files according to your choice.
 
+### Some Research Papers to Consider
+- .[Research Papers](https://docs.google.com/spreadsheets/d/1Y74KzTrUNNQukCKqTGpbkm-NUU4UGYIH2omL9jlpKe0/edit?usp=sharing)
 
 
 
